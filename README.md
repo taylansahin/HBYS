@@ -1,2 +1,2 @@
-# HBYS
-Hastane Bilgi Yönetim Sistemi
+# hrs_project
+Hastane Randevu Sistemi
